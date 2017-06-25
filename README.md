@@ -27,4 +27,4 @@ Setting up chat component and debugging the sharing of posts between users.
 Getting the opportunity to extend the idea during Mhacks Nano.
 
 ## What's next for Memories
-There us a need for Social Network integration like facebook and twitter to leverage upon the basic idea without disturbing the basic sanctity of our app.
+There is a need for Social Network integration like facebook and twitter to leverage upon the basic idea without disturbing the basic sanctity of our app.
