@@ -1,0 +1,1082 @@
+[
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\or_line.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\a4a922f32319468881a2e33f89db53e01cf42895\\output\\res\\drawable\\or_line.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\send.png",
+        "source": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\red.png",
+        "source": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow.png",
+        "source": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\8c852e1aa2733e5395dd202bdf9648e586f518eb\\output\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\b33c9f8b780cde70ea8063153c34b9f90312cd58\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_button.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\a4a922f32319468881a2e33f89db53e01cf42895\\output\\res\\drawable\\facebook_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_google.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\8c852e1aa2733e5395dd202bdf9648e586f518eb\\output\\res\\drawable\\idp_button_background_google.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_email.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\8c852e1aa2733e5395dd202bdf9648e586f518eb\\output\\res\\drawable\\idp_button_background_email.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\film.png",
+        "source": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\film.png"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\blue.png",
+        "source": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\blue.png"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\blue.png",
+        "source": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\blue.png"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\film.png",
+        "source": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\film.png"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_facebook.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\8c852e1aa2733e5395dd202bdf9648e586f518eb\\output\\res\\drawable\\idp_button_background_facebook.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_button.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\a4a922f32319468881a2e33f89db53e01cf42895\\output\\res\\drawable\\facebook_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\shapesfill.png",
+        "source": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\shapesfill.png"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\send.png",
+        "source": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\shapesfill.png",
+        "source": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\shapesfill.png"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\55f58f705b0065e525a2123d09c12fdab3ec7aa0\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\speechbubble.png",
+        "source": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\speechbubble.png"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\google_button.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\a4a922f32319468881a2e33f89db53e01cf42895\\output\\res\\drawable\\google_button.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\shapes.png",
+        "source": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\shapes.png"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\press.jpg",
+        "source": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\press.jpg"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\8c852e1aa2733e5395dd202bdf9648e586f518eb\\output\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\google_button.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\a4a922f32319468881a2e33f89db53e01cf42895\\output\\res\\drawable\\google_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\password_button.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\a4a922f32319468881a2e33f89db53e01cf42895\\output\\res\\drawable\\password_button.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_button.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\a4a922f32319468881a2e33f89db53e01cf42895\\output\\res\\drawable\\twitter_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\speechbubble.png",
+        "source": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\speechbubble.png"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\b33c9f8b780cde70ea8063153c34b9f90312cd58\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\b33c9f8b780cde70ea8063153c34b9f90312cd58\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\or_line.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\a4a922f32319468881a2e33f89db53e01cf42895\\output\\res\\drawable\\or_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\password_button.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\a4a922f32319468881a2e33f89db53e01cf42895\\output\\res\\drawable\\password_button.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\b33c9f8b780cde70ea8063153c34b9f90312cd58\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\press.jpg",
+        "source": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\press.jpg"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow.png",
+        "source": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\shapes.png",
+        "source": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\shapes.png"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_email.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\8c852e1aa2733e5395dd202bdf9648e586f518eb\\output\\res\\drawable\\idp_button_background_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_google.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\8c852e1aa2733e5395dd202bdf9648e586f518eb\\output\\res\\drawable\\idp_button_background_google.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\55f58f705b0065e525a2123d09c12fdab3ec7aa0\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\red.png",
+        "source": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_button.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\a4a922f32319468881a2e33f89db53e01cf42895\\output\\res\\drawable\\twitter_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\1b37fc2be69d520df233af952c94bae369c1658a\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "G:\\college\\Android\\parseproject\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\idp_button_background_facebook.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\8c852e1aa2733e5395dd202bdf9648e586f518eb\\output\\res\\drawable\\idp_button_background_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\RISHAB\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\RISHAB\\.android\\build-cache\\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    }
+]

@@ -1,0 +1,606 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:1-58:12
+	package
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:5-33
+		INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\21f9058744938e9ab4cf3737bcd8993f3e8622e0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\RISHAB\.android\build-cache\a7db54b4e500910ed9ce869684dbe419aa3ea81d\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\RISHAB\.android\build-cache\fe5652551637a7074f7f165d13eacd1c4c14d463\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\2cb40c655da113acdbf19454bf22abd2f1dc78aa\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\0219a85d8d233d4af01121f09077f0a7de36503d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\RISHAB\.android\build-cache\ee96c728aeb74f83b0859d8cd6a16bc4021e335a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\9c8d4393e83f28e5cdff6f86296e822a05b0404f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:20:5-66
+MERGED from [com.firebaseui:firebase-ui:0.6.0] C:\Users\RISHAB\.android\build-cache\a4a922f32319468881a2e33f89db53e01cf42895\output\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.6.0] C:\Users\RISHAB\.android\build-cache\0b6372aa13c7ca459ebc2bb97da950d7a4a80bb1\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\21f9058744938e9ab4cf3737bcd8993f3e8622e0\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\RISHAB\.android\build-cache\6bbe9851b80ace6b55b0921c196b33d351fa2b5c\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\0219a85d8d233d4af01121f09077f0a7de36503d\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\RISHAB\.android\build-cache\ee96c728aeb74f83b0859d8cd6a16bc4021e335a\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\9c8d4393e83f28e5cdff6f86296e822a05b0404f\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:5-56:19
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\RISHAB\.android\build-cache\f0a758ed54c40e0cb26000885a7463944700c6ab\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\21f9058744938e9ab4cf3737bcd8993f3e8622e0\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\RISHAB\.android\build-cache\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\RISHAB\.android\build-cache\55f58f705b0065e525a2123d09c12fdab3ec7aa0\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\RISHAB\.android\build-cache\1b37fc2be69d520df233af952c94bae369c1658a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\RISHAB\.android\build-cache\f8629fc669b9768375fdaab19ab8ab0daece8430\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\RISHAB\.android\build-cache\f2e339672d8807b7a9615b5b0a4e42ceff72856e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\RISHAB\.android\build-cache\4adef2277e55f7e09e34cdc8feaf2978020e8084\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\RISHAB\.android\build-cache\a7db54b4e500910ed9ce869684dbe419aa3ea81d\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\RISHAB\.android\build-cache\b9c09f6a27ac490efacc60c1fbb235ec9abc32cc\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\RISHAB\.android\build-cache\638d4da66a97a90b409f14d157f343d893764222\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\RISHAB\.android\build-cache\2b3bf904ddccf919d6bce0d2e0a46598df5b114e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\RISHAB\.android\build-cache\6053953be74a99adb3468e1d1d1757ceb00ca2d9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\RISHAB\.android\build-cache\2a8fc46b0c0d74bbb91f0f51823e7e13603e1397\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\RISHAB\.android\build-cache\fe5652551637a7074f7f165d13eacd1c4c14d463\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\RISHAB\.android\build-cache\13c8f9bfcd120ad28e47a8fb4302401245bf3784\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\2cb40c655da113acdbf19454bf22abd2f1dc78aa\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\RISHAB\.android\build-cache\465d795d856ff65f65248904f8b84ccb943f1fe8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\RISHAB\.android\build-cache\6bbe9851b80ace6b55b0921c196b33d351fa2b5c\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\RISHAB\.android\build-cache\2300aefc9fce85a43c9edcb738b319140a2c0abc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\RISHAB\.android\build-cache\e194655bfe03b0bf7310598daa934f9fe8b9863b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\RISHAB\.android\build-cache\ac05abb133ce0c42ee13d37dff01be4c8187ce2c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\RISHAB\.android\build-cache\4e514096374fc74c8c928eedfd8d7a423516f32b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\7d4bb7b5d8878998e477d99b91e5a71c3edd01ed\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\0219a85d8d233d4af01121f09077f0a7de36503d\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\RISHAB\.android\build-cache\f7214fc7d1ad0a1c20158d1541eb31cacba5556b\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\RISHAB\.android\build-cache\00e3e931cdeb5ec377e5f931fd46446891e56a4f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\RISHAB\.android\build-cache\31482cdf48eccee710a3c8b6d79b31f8e14f1b17\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\RISHAB\.android\build-cache\feeeecf65fca3cb8694735c8f52488141b700711\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\RISHAB\.android\build-cache\ee96c728aeb74f83b0859d8cd6a16bc4021e335a\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\RISHAB\.android\build-cache\939d888adc5d7df5bb08749b196d02b2c84b450d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\9c8d4393e83f28e5cdff6f86296e822a05b0404f\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.firebaseui:firebase-ui-database:0.6.0] C:\Users\RISHAB\.android\build-cache\0b6372aa13c7ca459ebc2bb97da950d7a4a80bb1\output\AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:12:5-83:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] C:\Users\RISHAB\.android\build-cache\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\output\AndroidManifest.xml:28:5-37:19
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\RISHAB\.android\build-cache\6a5e6110a05684460154dc6d47b165695a2ed99a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\RISHAB\.android\build-cache\de69304393dc2ab8d3531783035d2a5fdcec3c71\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\RISHAB\.android\build-cache\b33c9f8b780cde70ea8063153c34b9f90312cd58\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\0ac386b58433c76d07a248fcb5237665996e9490\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\RISHAB\.android\build-cache\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\RISHAB\.android\build-cache\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\RISHAB\.android\build-cache\a2aff8e6ebd2da85c35cb6dc09afbfbeb5f35f07\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\RISHAB\.android\build-cache\8b7bf7b85fa8233322159384d995e972fcec76f4\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\RISHAB\.android\build-cache\b064116434789aa8438fe981fc80597cb752f784\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\RISHAB\.android\build-cache\5588e89e2bc6b0668519e8449f0a0e66a60df7a8\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\RISHAB\.android\build-cache\2dea8f7817142cca48d386889dcb7a940a13ab9d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\RISHAB\.android\build-cache\b316967bb3b4b6c03c026f6c1c19f772384bf760\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\RISHAB\.android\build-cache\c6f08c3d82468548176052f62bd088dab19996ce\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:20:9-38
+	android:theme
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:9-61
+activity#com.parse.memories.MainActivity
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:24:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:29:27-74
+activity#com.parse.memories.UserList
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:9-64
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:32:19-61
+activity#com.parse.memories.Main2Activity
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:33:9-69
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:33:19-66
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:42:9-44:55
+	android:value
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:43:13-58
+activity#com.parse.memories.FindActivity
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:46:9-48:59
+	android:label
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:47:13-59
+activity#com.parse.memories.MapsActivity
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:49:9-51:59
+	android:label
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:50:13-59
+activity#com.parse.memories.PostIt
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:52:9-62
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:52:19-59
+activity#com.parse.memories.Home
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:53:9-60
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:53:19-57
+activity#com.parse.memories.Display
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:54:9-63
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:54:19-60
+activity#com.parse.memories.Chat
+ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:55:9-69
+	android:name
+		ADDED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:55:19-57
+uses-sdk
+INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\RISHAB\.android\build-cache\f0a758ed54c40e0cb26000885a7463944700c6ab\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\RISHAB\.android\build-cache\e57c58091ae9bf77331ad8703a593a805138298e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\21f9058744938e9ab4cf3737bcd8993f3e8622e0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\RISHAB\.android\build-cache\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\RISHAB\.android\build-cache\55f58f705b0065e525a2123d09c12fdab3ec7aa0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\RISHAB\.android\build-cache\1b37fc2be69d520df233af952c94bae369c1658a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\RISHAB\.android\build-cache\f8629fc669b9768375fdaab19ab8ab0daece8430\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\RISHAB\.android\build-cache\f2e339672d8807b7a9615b5b0a4e42ceff72856e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\RISHAB\.android\build-cache\4adef2277e55f7e09e34cdc8feaf2978020e8084\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\RISHAB\.android\build-cache\a7db54b4e500910ed9ce869684dbe419aa3ea81d\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\RISHAB\.android\build-cache\b9c09f6a27ac490efacc60c1fbb235ec9abc32cc\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\RISHAB\.android\build-cache\638d4da66a97a90b409f14d157f343d893764222\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\RISHAB\.android\build-cache\2b3bf904ddccf919d6bce0d2e0a46598df5b114e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\RISHAB\.android\build-cache\6053953be74a99adb3468e1d1d1757ceb00ca2d9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\RISHAB\.android\build-cache\2a8fc46b0c0d74bbb91f0f51823e7e13603e1397\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\RISHAB\.android\build-cache\fe5652551637a7074f7f165d13eacd1c4c14d463\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\RISHAB\.android\build-cache\13c8f9bfcd120ad28e47a8fb4302401245bf3784\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\2cb40c655da113acdbf19454bf22abd2f1dc78aa\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] C:\Users\RISHAB\.android\build-cache\0eee8f5b72e958eceaf52290b116a1fa167445df\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\RISHAB\.android\build-cache\465d795d856ff65f65248904f8b84ccb943f1fe8\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\RISHAB\.android\build-cache\6bbe9851b80ace6b55b0921c196b33d351fa2b5c\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\RISHAB\.android\build-cache\2300aefc9fce85a43c9edcb738b319140a2c0abc\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\RISHAB\.android\build-cache\e194655bfe03b0bf7310598daa934f9fe8b9863b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\RISHAB\.android\build-cache\ac05abb133ce0c42ee13d37dff01be4c8187ce2c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\RISHAB\.android\build-cache\4e514096374fc74c8c928eedfd8d7a423516f32b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] C:\Users\RISHAB\.android\build-cache\d1a6b8c4c76f848ca48df2f28841aa26491adadb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\7d4bb7b5d8878998e477d99b91e5a71c3edd01ed\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\0219a85d8d233d4af01121f09077f0a7de36503d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\RISHAB\.android\build-cache\f7214fc7d1ad0a1c20158d1541eb31cacba5556b\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\RISHAB\.android\build-cache\ddef91b3cbff386e7cb4b8de5c7ab1862e282bcc\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\RISHAB\.android\build-cache\00e3e931cdeb5ec377e5f931fd46446891e56a4f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\RISHAB\.android\build-cache\31482cdf48eccee710a3c8b6d79b31f8e14f1b17\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\RISHAB\.android\build-cache\c43ebb4d6f7b5e6f0ad8847ad6588e63259f1132\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\RISHAB\.android\build-cache\feeeecf65fca3cb8694735c8f52488141b700711\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\RISHAB\.android\build-cache\ee96c728aeb74f83b0859d8cd6a16bc4021e335a\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\RISHAB\.android\build-cache\939d888adc5d7df5bb08749b196d02b2c84b450d\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\9c8d4393e83f28e5cdff6f86296e822a05b0404f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:17:5-42
+MERGED from [com.firebaseui:firebase-ui:0.6.0] C:\Users\RISHAB\.android\build-cache\a4a922f32319468881a2e33f89db53e01cf42895\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:0.6.0] C:\Users\RISHAB\.android\build-cache\0b6372aa13c7ca459ebc2bb97da950d7a4a80bb1\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\RISHAB\.android\build-cache\02b5207bafd3d8bed462676f0fc40bbc2703a446\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\RISHAB\.android\build-cache\5f270b42a6ada8488d0b4a6654a66e2fb7fd7d5d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] C:\Users\RISHAB\.android\build-cache\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:customtabs:23.4.0] C:\Users\RISHAB\.android\build-cache\6a5e6110a05684460154dc6d47b165695a2ed99a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\RISHAB\.android\build-cache\de69304393dc2ab8d3531783035d2a5fdcec3c71\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\RISHAB\.android\build-cache\b33c9f8b780cde70ea8063153c34b9f90312cd58\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\RISHAB\.android\build-cache\60bfcb49e99cd7cc628eb254bfbafd6bf3b7ebc9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\0ac386b58433c76d07a248fcb5237665996e9490\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\RISHAB\.android\build-cache\a9f42046f1a2aa4decdb957bb7661f2c50308cca\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\RISHAB\.android\build-cache\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\output\AndroidManifest.xml:17:5-42
+MERGED from [com.firebaseui:firebase-ui-storage:0.6.0] C:\Users\RISHAB\.android\build-cache\453caec5ebcb525db86506423a120ec45405a3d7\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\RISHAB\.android\build-cache\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\RISHAB\.android\build-cache\a2aff8e6ebd2da85c35cb6dc09afbfbeb5f35f07\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\RISHAB\.android\build-cache\8b7bf7b85fa8233322159384d995e972fcec76f4\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\RISHAB\.android\build-cache\b064116434789aa8438fe981fc80597cb752f784\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\RISHAB\.android\build-cache\d24821c402d050309ddd38eb71ff890282733c56\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\RISHAB\.android\build-cache\bb696ace1a7bb05ef58a5a669feae0732e32e766\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\RISHAB\.android\build-cache\5588e89e2bc6b0668519e8449f0a0e66a60df7a8\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\RISHAB\.android\build-cache\2dea8f7817142cca48d386889dcb7a940a13ab9d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\RISHAB\.android\build-cache\b316967bb3b4b6c03c026f6c1c19f772384bf760\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\RISHAB\.android\build-cache\c6f08c3d82468548176052f62bd088dab19996ce\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\RISHAB\.android\build-cache\4135a5c260cc5f4ea85bdd4e7a533d318fc0fb63\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RISHAB\Desktop\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\RISHAB\.android\build-cache\34f007cbbc6394d169780d29e6ebeca7af09ca57\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\21f9058744938e9ab4cf3737bcd8993f3e8622e0\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\0219a85d8d233d4af01121f09077f0a7de36503d\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\9c8d4393e83f28e5cdff6f86296e822a05b0404f\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\21f9058744938e9ab4cf3737bcd8993f3e8622e0\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\RISHAB\.android\build-cache\4d9ea39efc82219d789c47810c43c5f48b67277e\output\AndroidManifest.xml:23:27-73
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\RISHAB\.android\build-cache\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\RISHAB\.android\build-cache\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\RISHAB\.android\build-cache\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\RISHAB\.android\build-cache\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\RISHAB\.android\build-cache\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\RISHAB\.android\build-cache\13c82e5fcd3f1e092aaa6f6abc0a4702252469c0\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\RISHAB\.android\build-cache\b9c09f6a27ac490efacc60c1fbb235ec9abc32cc\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\RISHAB\.android\build-cache\b9c09f6a27ac490efacc60c1fbb235ec9abc32cc\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\RISHAB\.android\build-cache\b9c09f6a27ac490efacc60c1fbb235ec9abc32cc\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\RISHAB\.android\build-cache\b9c09f6a27ac490efacc60c1fbb235ec9abc32cc\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\RISHAB\.android\build-cache\b9c09f6a27ac490efacc60c1fbb235ec9abc32cc\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\RISHAB\.android\build-cache\b9c09f6a27ac490efacc60c1fbb235ec9abc32cc\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\RISHAB\.android\build-cache\b9c09f6a27ac490efacc60c1fbb235ec9abc32cc\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\RISHAB\.android\build-cache\fe5652551637a7074f7f165d13eacd1c4c14d463\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\2cb40c655da113acdbf19454bf22abd2f1dc78aa\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\RISHAB\.android\build-cache\fe5652551637a7074f7f165d13eacd1c4c14d463\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\RISHAB\.android\build-cache\674376b56a9732b888f98ea1f1dcf60403a527ba\output\AndroidManifest.xml:30:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\RISHAB\.android\build-cache\ee96c728aeb74f83b0859d8cd6a16bc4021e335a\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\RISHAB\.android\build-cache\ee96c728aeb74f83b0859d8cd6a16bc4021e335a\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\RISHAB\.android\build-cache\ee96c728aeb74f83b0859d8cd6a16bc4021e335a\output\AndroidManifest.xml:21:52-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\9c8d4393e83f28e5cdff6f86296e822a05b0404f\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\RISHAB\.android\build-cache\9c8d4393e83f28e5cdff6f86296e822a05b0404f\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\RISHAB\.android\build-cache\695b44ee94759c6649a2b3c6e5dcc1645a7a1522\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\RISHAB\.android\build-cache\31c959552bafdd26f5d42120beafa8aaf0d83e13\output\AndroidManifest.xml:46:25-77
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:0.6.0] C:\Users\RISHAB\.android\build-cache\0b6372aa13c7ca459ebc2bb97da950d7a4a80bb1\output\AndroidManifest.xml:14:9-16:69
+MERGED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:13:9-15:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\RISHAB\.android\build-cache\b316967bb3b4b6c03c026f6c1c19f772384bf760\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:0.6.0] C:\Users\RISHAB\.android\build-cache\0b6372aa13c7ca459ebc2bb97da950d7a4a80bb1\output\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:0.6.0] C:\Users\RISHAB\.android\build-cache\0b6372aa13c7ca459ebc2bb97da950d7a4a80bb1\output\AndroidManifest.xml:15:13-58
+activity#com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:17:9-20:56
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:19:13-76
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:20:13-53
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:18:13-88
+activity#com.firebase.ui.auth.ui.email.EmailHintContainerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:21:9-24:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:23:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:24:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:22:13-84
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:25:9-28:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:27:13-68
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:28:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:26:13-81
+activity#com.firebase.ui.auth.ui.email.RegisterEmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:29:9-32:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:31:13-66
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:32:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:30:13-79
+activity#com.firebase.ui.auth.ui.email.SignInNoPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:33:9-36:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:35:13-71
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:36:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:34:13-82
+activity#com.firebase.ui.auth.ui.email.SignInActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:37:9-40:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:39:13-59
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:40:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:38:13-72
+activity#com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:41:9-44:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:43:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:44:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:42:13-88
+activity#com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:45:9-48:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:47:13-66
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:48:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:46:13-85
+activity#com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:49:9-52:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:51:13-71
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:52:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:50:13-90
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:53:9-56:49
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:55:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:56:13-46
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:54:13-80
+activity#com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:57:9-60:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:59:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:60:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:58:13-82
+activity#com.firebase.ui.auth.ui.ChooseAccountActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:61:9-64:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:63:13-58
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:64:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:62:13-73
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:65:9-70:45
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] C:\Users\RISHAB\.android\build-cache\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\output\AndroidManifest.xml:29:9-32:75
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:68:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:67:13-96
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:69:13-58
+		REJECTED from [com.facebook.android:facebook-android-sdk:4.14.1] C:\Users\RISHAB\.android\build-cache\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\output\AndroidManifest.xml:32:13-72
+	tools:replace
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:70:13-42
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:66:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:71:9-82:20
+MERGED from [com.facebook.android:facebook-android-sdk:4.14.1] C:\Users\RISHAB\.android\build-cache\2cdc8d67d13c6a8e7ccb9792adeaf508610d9f52\output\AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:73:13-36
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:0.6.0] C:\Users\RISHAB\.android\build-cache\8c852e1aa2733e5395dd202bdf9648e586f518eb\output\AndroidManifest.xml:72:13-58
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\RISHAB\.android\build-cache\e57de5b3e1dccd54bc1be9db8e9da64c11f8aa6a\output\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\RISHAB\.android\build-cache\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\RISHAB\.android\build-cache\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\RISHAB\.android\build-cache\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\RISHAB\.android\build-cache\29c5e18c2028b63d93b4a36fc3ed23fab40ce439\output\AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\RISHAB\.android\build-cache\5588e89e2bc6b0668519e8449f0a0e66a60df7a8\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\RISHAB\.android\build-cache\5588e89e2bc6b0668519e8449f0a0e66a60df7a8\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\RISHAB\.android\build-cache\5588e89e2bc6b0668519e8449f0a0e66a60df7a8\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\RISHAB\.android\build-cache\5588e89e2bc6b0668519e8449f0a0e66a60df7a8\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\RISHAB\.android\build-cache\5588e89e2bc6b0668519e8449f0a0e66a60df7a8\output\AndroidManifest.xml:6:79-143

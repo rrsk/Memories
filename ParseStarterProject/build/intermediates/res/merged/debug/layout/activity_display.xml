@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.parse.memories.Display">
+
+    <ImageView
+        android:id="@+id/showMain"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/cast_intro_overlay_button_background_color"
+        app:srcCompat="@android:drawable/ic_menu_camera" />
+
+    <ImageView
+        android:id="@+id/liked"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/showMain"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="21dp"
+        android:onClick="likeMe"
+        app:srcCompat="@drawable/shapes" />
+
+    <TextView
+        android:id="@+id/showTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/liked"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:text="Title"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/chat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="chat"
+        android:text="Local Chat"
+        android:textAlignment="textStart"
+        android:layout_below="@+id/scrollView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_below="@+id/liked"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/scrollView2">
+
+        <TextView
+            android:id="@+id/showDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/liked"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="29dp"
+            android:text="Description "
+            android:textAlignment="textStart"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,73 @@
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/speechbubble" />
+
+    <EditText
+        android:id="@+id/userEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="126dp"
+        android:ems="10"
+        android:hint="Enter your username"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/passEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/userEdit"
+        android:layout_alignRight="@+id/userEdit"
+        android:layout_below="@+id/userEdit"
+        android:layout_marginTop="18dp"
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:hint="Enter your password"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/signBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/passEdit"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp"
+        android:onClick="signUp"
+        android:text="Sign Up" />
+
+    <TextView
+        android:id="@+id/changeModeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/signBtn"
+        android:layout_alignBottom="@+id/signBtn"
+        android:layout_toEndOf="@+id/logo"
+        android:layout_toRightOf="@+id/logo"
+        android:textColor="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color"
+        android:text="or, Login" />
+</RelativeLayout>
